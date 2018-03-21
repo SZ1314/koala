@@ -1,0 +1,121 @@
+#section #banner {
+  height: 471px;
+  background: url(../img/list-banner.jpg) no-repeat center top; }
+#section #img-nav {
+  width: 100%;
+  height: 360px;
+  background: url(../img/j1w0486151_1920_360.jpg) no-repeat -280px top;
+  display: block;
+  position: relative; }
+#section #fix-nav {
+  height: 46px; }
+  #section #fix-nav .tabbar {
+    position: absolute;
+    width: 100%;
+    height: 46px;
+    z-index: 1; }
+    #section #fix-nav .tabbar .tabbar-con {
+      position: absolute;
+      left: 50%;
+      margin-left: -500px;
+      top: 0;
+      height: 46px;
+      width: 1000px;
+      font-size: 0;
+      line-height: 0; }
+      #section #fix-nav .tabbar .tabbar-con a {
+        width: 124px;
+        background-color: #f49d35;
+        position: relative;
+        text-align: center;
+        margin-right: 1px;
+        display: inline-block;
+        vertical-align: top;
+        background-color: #fff;
+        color: #333;
+        height: 46px;
+        line-height: 46px;
+        font-size: 16px; }
+        #section #fix-nav .tabbar .tabbar-con a:last-child {
+          margin: 0; }
+#section #shop article {
+  overflow: hidden;
+  width: 1000px;
+  margin: 0 auto; }
+  #section #shop article .goodsWrap {
+    float: left;
+    position: relative;
+    width: 197px;
+    height: 314px;
+    background-size: 197px 314px !important;
+    margin: 0 3px 3px 0;
+    zoom: 1;
+    font-size: 12px;
+    background: #fff; }
+    #section #shop article .goodsWrap a {
+      position: relative;
+      float: left; }
+      #section #shop article .goodsWrap a .proImg {
+        width: 197px;
+        height: 197px;
+        display: inline-block; }
+      #section #shop article .goodsWrap a .w-brand-img {
+        position: absolute;
+        top: 10px;
+        left: 10px;
+        width: 28px;
+        display: inline-block; }
+      #section #shop article .goodsWrap a .comment {
+        display: none; }
+    #section #shop article .goodsWrap .proinfo {
+      float: left;
+      position: relative;
+      padding: 0px 12px;
+      width: 173px;
+      height: 117px;
+      background: #fff;
+      word-wrap: break-word;
+      word-break: break-all; }
+      #section #shop article .goodsWrap .proinfo h3 {
+        margin-top: 10px;
+        font-size: 12px;
+        height: 36px;
+        line-height: 18px;
+        overflow: hidden; }
+        #section #shop article .goodsWrap .proinfo h3 .titLink {
+          width: 173px;
+          color: #333;
+          display: block;
+          white-space: nowrap;
+          overflow: hidden;
+          text-overflow: ellipsis;
+          font-weight: bold; }
+      #section #shop article .goodsWrap .proinfo ul {
+        margin-top: 10px;
+        max-height: 20px;
+        overflow: hidden; }
+        #section #shop article .goodsWrap .proinfo ul li {
+          float: left;
+          padding: 0 4px;
+          margin-right: 5px;
+          border: 1px dotted #e31436;
+          vertical-align: 6px;
+          font-size: 12px;
+          color: #e31436; }
+      #section #shop article .goodsWrap .proinfo .price {
+        float: left; }
+        #section #shop article .goodsWrap .proinfo .price strong {
+          margin-right: 6px;
+          color: #e31436;
+          font-weight: bold;
+          font-size: 18px; }
+          #section #shop article .goodsWrap .proinfo .price strong span {
+            font-size: 12px; }
+      #section #shop article .goodsWrap .proinfo .buy {
+        float: right;
+        padding: 0 6px;
+        height: 26px;
+        line-height: 26px;
+        font-size: 12px; }
+
+/*# sourceMappingURL=list.css.map */
